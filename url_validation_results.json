@@ -1,0 +1,17 @@
+[
+  {
+    "url": "www.gmail.com",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:41:26.614Z"
+  },
+  {
+    "url": "www.googlecom",
+    "isValid": true,
+    "timestamp": "2025-01-09T08:42:28.122Z"
+  },
+  {
+    "url": "https//googlecom",
+    "isValid": false,
+    "timestamp": "2025-01-09T08:42:53.238Z"
+  }
+]
